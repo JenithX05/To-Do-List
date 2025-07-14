@@ -35,3 +35,8 @@ This app allows users to add, complete, and delete tasks. Tasks are saved in **l
 ```bash
 git clone https://github.com/JenithX05/To-Do-List.git
 
+-----
+2. Open the app in your browser  
+Navigate to the project folder and double-click the `index.html` file.  
+It will open in your default web browser and launch the To-Do List app instantly.  
+No setup or installation is needed.
